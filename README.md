@@ -1,3 +1,5 @@
+edge扩展下载：https://microsoftedge.microsoft.com/addons/detail/suoxieai-%C2%B7-%E5%88%92%E8%AF%8D%E8%A7%A3%E9%87%8A/mogbfhiggpkhpekfoeoefkfkikdhmafj
+
 # SuoxieAI 缩写数据集
 
 本仓库仅提供 SuoxieAI 缩写数据样本，不包含网站源码、服务端程序、部署文件或内部实现。
